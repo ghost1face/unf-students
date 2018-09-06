@@ -7,6 +7,7 @@ namespace UNF_Students
 		public static void Main(string[] args) 
 		{
 			Console.WriteLine("hey");
+			Console.WriteLine("after stage");
 		}
 	}
 }
